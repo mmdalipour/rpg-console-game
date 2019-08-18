@@ -1,0 +1,6 @@
+player=mamad
+indices=0,1,2
+people=65
+court=45
+tresury=40
+state=0
